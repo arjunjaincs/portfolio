@@ -9,33 +9,33 @@ module.exports = {
     // Description that goes under your name in main bio
     description: `Computer Science student with a strong interest in cybersecurity`,
     // Optional: Twitter account handle
-    author: `@notyet`,
+    author: `@ElonMusk`,
     // Optional: Github account URL
     github: `https://github.com/arjunjaincs`,
     // Optional: LinkedIn account URL
-    linkedin: `https://github.com/arjunjaincs`,
+    linkedin: `https://linkdin.com/arjunjaincs`,
     // Content of the About Me section
     about: `Computer Science student with a strong interest in cybersecurity, specializing in penetration testing, network security, and threat analysis. Experienced in designing innovative, real-world tech solutions and actively enhancing skills through hands-on projects and platforms like TryHackMe. Committed to continuous learning and applying technical knowledge to build secure, efficient systems that solve practical challenges.
 `,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
-        name: 'Devfolio',
+        name: 'Bluetooth-Based Smart Attendance System (Ongoing)',
         description:
-          'A zero-config and blazing fast personal site + blog built with GatsbyJs and TailwindCSS',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+          'Developing a low-cost, cheat-proof attendance system using Flutter and Bluetooth Low Energy (BLE). The system ensures that only students physically present can mark attendance by detecting BLE signals from the teacher's device, reducing proxy attendance and enhancing accuracy',
+        link: '',
       },
       {
-        name: 'ExtensionKit',
+        name: 'PaniSanket – Water Crowding Problems Project (Completed)',
         description:
-          'Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates',
-        link: 'https://extensionkit.io/?ref=devfolio',
+          'Contributed to building a citizen-reporting platform that addresses water crowding issues through real-time issue reporting, emergency alerts, and monthly consumption insights. The project empowers communities to actively participate in sustainable water management.',
+        link: '',
       },
       {
-        name: 'Another Cool Project',
+        name: 'Smart Parking System using Arduino (Concept)',
         description:
-          'Lorem ipsum dolor sit amet consectetur adipisicing elit ducimus perferendis',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+          'Designed a conceptual prototype for an automated parking management system using Arduino and IR sensors. The circuit model simulated vehicle detection, dynamically updating available parking slots on a digital display. The concept aimed to enhance parking efficiency by providing real-time availability information to drivers',
+        link: '',
       },
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
