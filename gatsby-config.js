@@ -22,7 +22,7 @@ module.exports = {
       {
         name: 'Bluetooth-Based Smart Attendance System (Ongoing)',
         description:
-          "Developing a low-cost, cheat-proof attendance system using Flutter and Bluetooth Low Energy (BLE). The system ensures that only students physically present can mark attendance by detecting BLE signals from the teacher's device, reducing proxy attendance and enhancing accuracy",
+          'Developing a low-cost, cheat-proof attendance system using Flutter and Bluetooth Low Energy (BLE). The system ensures that only students physically present can mark attendance by detecting BLE signals from the teacher device, reducing proxy attendance and enhancing accuracy',
         link: '',
       },
       {
