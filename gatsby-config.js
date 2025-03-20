@@ -1,21 +1,22 @@
 module.exports = {
   siteMetadata: {
     // Site URL for when it goes live
-    siteUrl: `https://monumental-chimera-b1ace3.netlify.app/`,
+    siteUrl: `https://arjunjain.netlify.app/`,
     // Your Name
-    name: 'Ryan Fitzgerald',
+    name: 'Arjun Jain',
     // Main Site Title
-    title: `Ryan Fitzgerald | Full-Stack Developer`,
+    title: `Arjun Jain | Aspiring Cybersecurity Specialist`,
     // Description that goes under your name in main bio
-    description: `Lorem ipsum dolor sit amet consectetur adipisicing elit, ipsum.`,
+    description: `Computer Science student with a strong interest in cybersecurity`,
     // Optional: Twitter account handle
-    author: `@rfitzio`,
+    author: `@notyet`,
     // Optional: Github account URL
-    github: `https://github.com/RyanFitzgerald`,
+    github: `https://github.com/arjunjaincs`,
     // Optional: LinkedIn account URL
-    linkedin: `https://github.com/RyanFitzgerald/devfolio`,
+    linkedin: `https://github.com/arjunjaincs`,
     // Content of the About Me section
-    about: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus perferendis porro cumque ea error ab voluptatem. Temporibus adipisci exercitationem similique itaque quibusdam laudantium, qui molestiae quas, aut amet animi id.`,
+    about: `Computer Science student with a strong interest in cybersecurity, specializing in penetration testing, network security, and threat analysis. Experienced in designing innovative, real-world tech solutions and actively enhancing skills through hands-on projects and platforms like TryHackMe. Committed to continuous learning and applying technical knowledge to build secure, efficient systems that solve practical challenges.
+`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
