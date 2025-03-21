@@ -13,8 +13,8 @@ import SEO from '../components/seo';
 
 const Index = ({ data }) => {
   const about = get(data, 'site.siteMetadata.about', false);
-  const posts = data.allMarkdownRemark.edges;
   const projects = get(data, 'site.siteMetadata.projects', false);
+  const posts = data.allMarkdownRemark.edges;
   const experience = get(data, 'site.siteMetadata.experience', false);
   const skills = get(data, 'site.siteMetadata.skills', false);
   const noBlog = !posts || !posts.length;
@@ -24,8 +24,8 @@ const Index = ({ data }) => {
       <SEO />
       <Header metadata={data.site.siteMetadata} noBlog={noBlog} />
       {about && <SectionAbout about={about} />}
-      {projects && projects.length && <SectionProjects projects={projects} />}
       {!noBlog && <SectionBlog posts={posts} />}
+      {projects && projects.length && <SectionProjects projects={projects} />}
       {experience && experience.length && (
         <SectionExperience experience={experience} />
       )}
