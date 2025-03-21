@@ -13,7 +13,7 @@ module.exports = {
     // Optional: Github account URL
     github: `https://github.com/arjunjaincs`,
     // Optional: LinkedIn account URL
-    linkedin: `https://linkdin.com/arjunjaincs`,
+    linkedin: `https://www.linkedin.com/in/arjunjaincs`,
     // Content of the About Me section
     about: `Computer Science student with a strong interest in cybersecurity, specializing in penetration testing, network security, and threat analysis. Experienced in designing innovative, real-world tech solutions and actively enhancing skills through hands-on projects and platforms like TryHackMe. Committed to continuous learning and applying technical knowledge to build secure, efficient systems that solve practical challenges.
 `,
