@@ -42,7 +42,7 @@ module.exports = {
     experience: [
       {
         name: 'CSI-Innowave Society Events',
-        description: 'o Pitch Your Idea: Served as a hospitality volunteer, assisting participants during investor pitching sessions. \no Internship Mela: Managed the registration desk, ensuring smooth onboarding and providing information about internship opportunities to participants. \no Uncharted (Hackathon & Cultural Fest): Coordinated with hackathon panels for decisionmaking, facilitated group coordination, and contributed to sponsorship outreach by contacting potential sponsors.',
+        description: 'o Pitch Your Idea: Served as a hospitality volunteer, <b>assisting participants during investor pitching sessions. \no Internship Mela: Managed the registration desk, ensuring smooth onboarding and providing information about internship opportunities to participants. \no Uncharted (Hackathon & Cultural Fest): Coordinated with hackathon panels for decisionmaking, facilitated group coordination, and contributed to sponsorship outreach by contacting potential sponsors.',
         link: 'https://github.com/RyanFitzgerald/devfolio',
       },
       {
